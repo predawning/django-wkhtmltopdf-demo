@@ -1,4 +1,4 @@
-# KYCPDF demo
+# Django Wkhtmltopdf demo
 
 
 Requirements
