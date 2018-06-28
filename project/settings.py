@@ -32,7 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'wkhtmltopdf',
-    'pdfapp',
+    'pdfapp.apps.PdfappConfig',
 
 
     'django.contrib.admin',
